@@ -1,0 +1,38 @@
+id_client;nom;prenom;age;date_inscription;montant_total_eur;actif;derniere_connexion;newsletter_ok
+1;Dupont;Alice;29;2023-01-15;1234.5;True;2024-03-11 08:15:00;True
+2;Martin;Paul;;;99.9;False;2024-01-10 21:03:00;False
+3;Durand;Sophie;35;;;True;;True
+4;Nguyen;Minh;;2021-12-05;1234.5;False;2023-10-06 09:00:00;False
+5;Moreau;Luc;42;;0.0;True;2024-01-01 00:00:00;True
+6;Garcia;Elena;;2020-11-30;2500.0;True;;False
+7;Bernard;Hugo;27;2023-09-10;75.5;False;2023-11-09 18:30:00;False
+8;Rossi;Chiara;31;2022-04-01;;True;;True
+9;Lefevre;Emma;0;2019-01-20;12.0;False;;False
+10;Petit;Thomas;33;2023-03-15;8765.43;True;2025-01-01 10:10:00;True
+11;Petit;Thomas;33;2023-03-15;8765.43;True;2025-01-01 10:10:00;True
+12;O'Neil;Sean;28;2024-02-29;;True;;True
+13;   ;   ;;;;;;False
+14;Müller;Anna;;;99.99;False;;False
+15;Smith;John;-5;;12.34;;2024-07-07 07:07:00;True
+16;Lopez;Carlos;105;;1000.0;True;;True
+17;Kowalski;Ewa;;2018-05-05;;False;2019-05-05 05:05:00;False
+18;Chen;Wei;29;2021-11-30;inf;True;2021-01-12 00:00:00;True
+19;Ivanov;Sergey;44;2020-01-01;0.0;False;2020-02-01 10:00:00;True
+20; ;Marie;;;;True;;False
+21;D'Amico;Luigi;33;2022-02-28;12345.67;True;2022-01-03 09:09:00;False
+23;Dupont;Alice;;2023-01-15;1234.5;True;2024-03-11 08:15:00;True
+24;Ndiaye;Awa;27;2021-06-15;75.0;True;;True
+25;Hernández;José;;;;False;;False
+26;Lefevre;Emma;0;2019-01-20;12.0;False;;False
+29;   ;Jean;;2022-05-05;0.0;True;2022-06-05 06:06:00;False
+30;Öztürk;Ahmet;999;2020-10-10;9999999.99;True;2020-11-10 11:11:00;True
+31;Sato;Yuki;;2021-01-01;;;;False
+32;Smith;John;35;2023-01-01;12.34;True;2023-02-01 02:02:00;True
+33;Smith;John;35;2023-01-01;12.34;True;2023-02-01 02:02:00;True
+34;Dupont;Alice;29;2023-01-15;1234.5;True;2024-03-11 08:15:00;True
+35;García;Eléna;;2022-02-02;100.0;True;2022-03-02 03:03:00;True
+36;   ;   ;;;;;;False
+37;Zhang;Li;30;2021-06-01;500.0;False;2021-02-06 12:00:00;False
+38;O;;;;;;;False
+39;Doe;Jane;;;12.0;True;2020-01-03 01:01:00;False
+40;Petit;Thomas;33;2023-03-15;8765.43;True;2025-01-01 10:10:00;True
