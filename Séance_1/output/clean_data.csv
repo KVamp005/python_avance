@@ -1,0 +1,38 @@
+id_client,nom,prenom,age,date_inscription,montant_total_eur,actif,derniere_connexion,newsletter_ok
+1,Dupont,Alice,29,2023-01-15,1234.5,True,,TRUE
+2,Martin,Paul,,,99.9,False,,False
+3,Durand,Sophie,35,,,1,,TRUE
+4,Nguyen,Minh,,2021-12-05,1234.5,0,,False
+5,Moreau,Luc,42,,0.0,True,,True
+6,Garcia,Elena,,2020-11-30,2500.0,OUI,,False
+7,Bernard,Hugo,27,2023-09-10,75.5,False,, 
+8,Rossi,Chiara,31,2022-04-01,,1,,TRUE
+9,Lefevre,Emma,0,2019-01-20,12.0,0,,FALSE
+10,Petit,Thomas,33,2023-03-15,8765.43,True,,True
+11,Petit,Thomas,33,2023-03-15,8765.43,True,,True
+12,O'Neil,Sean,28,2024-02-29,,yes,,TRUE
+13,   ,   ,,,, ,,False
+14,Müller,Anna,,,,False,,False
+15,Smith,John,-5,,12.34,,,TRUE
+16,Lopez,Carlos,105,,1000.0,True,,TRUE
+17,Kowalski,Ewa,,2018-05-05,,0,,FALSE
+18,Chen,Wei,29,2021-11-30,inf,1,,TRUE
+19,Ivanov,Sergey,44,2020-01-01,0.0,NON,,True
+20, ,Marie,,,,True,,False
+21,D'Amico,Luigi,33,2022-02-28,12345.67,1,, 
+23,Dupont,Alice,,2023-01-15,1234.5,True,,TRUE
+24,Ndiaye,Awa,27,2021-06-15,75.0,True,,True
+25,Hernández,José,,,,False,,FALSE
+26,Lefevre,Emma,0,2019-01-20,12.0,0,,FALSE
+29,   ,Jean,,2022-05-05,0.0,1,,FALSE
+30,Öztürk,Ahmet,999,2020-10-10,9999999.99,True,,TRUE
+31,Sato,Yuki,,2021-01-01,, ,,False
+32,Smith,John,35,2023-01-01,12.34,True,,TRUE
+33,Smith,John,35,2023-01-01,12.34,True,,TRUE
+34,Dupont,Alice,29,2023-01-15,1234.5,True,,TRUE
+35,García,Eléna,,2022-02-02,100.0,True,,TRUE
+36,   ,   ,,,,   ,,   
+37,Zhang,Li,30,2021-06-01,500.0,False,,FALSE
+38,O,,,,,,,False
+39,Doe,Jane,,,,True,,T R U E
+40,Petit,Thomas,33,2023-03-15,8765.43,True,,True
